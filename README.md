@@ -40,4 +40,4 @@ Untuk mulai menggunakan **MONTU TOOLS**, ikuti langkah-langkah berikut:
 2. Buka aplikasi **Termux** dan jalankan perintah berikut untuk mengunduh dan menjalankan script:
 
    ```bash
-   bash <(curl -s https://gist.githubusercontent.com/Montu133/bfd262f0f6476fc1ee009c4514f79249/raw/8955d7719690263b844d4ec6d9ab9431e2d0895d/MONTU.sh)
+   bash <(curl -s https://gist.githubusercontent.com/Montu133/bfd262f0f6476fc1ee009c4514f79249/raw/ff301ffa21c309322cb02a583861236ba65193e9/MONTU.sh)
