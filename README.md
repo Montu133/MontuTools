@@ -1,6 +1,6 @@
 # MON TOOLS
 
-![MONTU TOOLS Logo]([https://via.placeholder.com/600x200?text=MONTU+TOOLS](https://i.ibb.co.com/L8mQrnP/IMG-20241116-205405.jpg))
+<a href="https://ibb.co.com/R9fhNzS"><img src="https://i.ibb.co.com/FK2sXgW/IMG-20241116-205405.jpg" alt="IMG-20241116-205405" border="0" /></a>
 
 **MONTU TOOLS** adalah kumpulan script tools yang dirancang untuk mempermudah berbagai keperluan di Termux. Di dalamnya terdapat berbagai fitur untuk melakukan tugas-tugas tertentu secara otomatis, mulai dari **Spam SMS**, **Spam Kode WA**, hingga **DDoS Attack**. Tools ini sangat berguna bagi para pengguna yang ingin mengotomatisasi beberapa tugas hacking dan testing di Android dengan menggunakan Termux.
 
